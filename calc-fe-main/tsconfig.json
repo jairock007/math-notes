@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
+    "skipLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"],
-      "skipLibCheck": true
+      "@/*": ["./src/*"]
     }
   },
   "files": [],
