@@ -22,3 +22,7 @@ async def root():
     return {"message": "Server is running"}
 
 app.include_router(calculator_router, prefix="/calculate", tags=["calculate"])
+
+
+# Handler for AWS Lambda
+handler = Mangum(app)
