@@ -36,4 +36,4 @@ uritemplate==4.1.1
 urllib3==2.2.2
 uvicorn==0.30.6
 python-multipart==0.0.10
-mangum==0.18.0 
+mangum==0.18.0
