@@ -18,7 +18,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calc-fe-main.git
+   git clone https://github.com/jairock007/math-notes/tree/main.git
    ```
 
 2. Install dependencies:
